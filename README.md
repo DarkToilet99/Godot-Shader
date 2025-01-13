@@ -3,7 +3,7 @@
 I made a fireball spell using multiple shaders, simple objects and textures to obtain something interesting
 If you want to see the result run the executable in out.
 There is a single scene with a free look camera.
-#Controls
+# Controls
 Use W and S to move forward and backward.
 
 Use A and D to move left and right.
